@@ -1,0 +1,83 @@
+.full-page{
+    background-color: rgb(224, 221, 221);
+    height: 1200px;
+}
+
+.header{
+    color: rgb(72, 72, 85); 
+    text-align: center;
+    padding: 40px;
+}
+.upper{
+    background-color: rgb(89, 198, 243) ; 
+    height: 300px;
+    padding: 20px;
+    display: flex;  
+}
+/* images */
+.djcat{
+    height: 300px;
+    width: 300px;
+    margin-bottom: 50px;
+}
+.teachercat{
+    height: 300px;
+    width: 300px;
+    background-color: aliceblue;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+.lsg{
+    height: 300px;
+    width: 300px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+
+.middle{
+    background-color: rgb(209, 164, 187);
+    height: 300px;
+    padding: 20px;
+    display: flex;
+}
+
+/* images */
+
+.boxingcat{
+    height: 300px;
+    width: 300px;
+}
+
+.guitarcat{
+    height: 300px;
+    width: 300px;
+    margin-left: 400px;
+}
+
+.lower{
+    background-color: white
+    height: 300px;
+    display: flex;
+}
+
+/* images */
+
+.dinocat{
+    height: 300px;
+    width: 300px;
+    margin-left: 20px;
+}
+
+.helmet{
+    height: 300px;
+    width: 300px;
+    margin-left: 50px;
+}
+
+.maxo{
+    height: 300px;
+    width: 300px;
+    margin-left: 50px;
+}
